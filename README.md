@@ -1,5 +1,5 @@
 # Plant-counter-CV
-Computer vision for counting plants in a image
+Computer vision for counting plants in an image. This program should be deployed for the mobile application, meaning it will run in the cloud. Users will upload photos through our app, and the application will send them to the cloud for processing. Afterward, the processing will take place in the cloud, and the results will be sent back in the form of a JSON object, presented appropriately to the user. This constitutes the fundamental concept of the application.
 
 ## Getting Started
 
